@@ -10,7 +10,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/yanjunhui/meeus/unit"
+	"github.com/soniakeys/unit"
 )
 
 // Predefined errors indicate that a value could not be formatted.
