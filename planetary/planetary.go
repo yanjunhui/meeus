@@ -9,8 +9,8 @@ package planetary
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // Mean computes some intermediate values for a mean planetary configuration

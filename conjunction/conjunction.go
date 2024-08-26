@@ -7,8 +7,8 @@ package conjunction
 import (
 	"errors"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/interp"
+	"github.com/yanjunhui/unit"
 )
 
 // Planetary computes a conjunction between two moving objects, such as planets.

@@ -7,10 +7,10 @@ package solstice
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
+	"github.com/yanjunhui/unit"
 )
 
 var (

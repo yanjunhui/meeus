@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/sundial"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleGeneral_a() {

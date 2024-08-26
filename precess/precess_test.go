@@ -9,12 +9,12 @@ import (
 	"testing"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/elementequinox"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/precess"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleApproxAnnualPrecession() {

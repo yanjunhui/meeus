@@ -7,9 +7,9 @@ package parallax
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/sidereal"
+	"github.com/yanjunhui/unit"
 )
 
 // constant for Horizontal.  p. 279.

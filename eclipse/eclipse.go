@@ -7,9 +7,9 @@ package eclipse
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/moonphase"
+	"github.com/yanjunhui/unit"
 )
 
 func g(k, jm, c1, c2 float64) (eclipse bool, jmax, γ, u, Mʹ float64) {

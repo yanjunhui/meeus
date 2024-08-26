@@ -18,7 +18,6 @@ import (
 	"errors"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/elliptic"
 	"github.com/yanjunhui/meeus/globe"
@@ -26,6 +25,7 @@ import (
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/sidereal"
+	"github.com/yanjunhui/unit"
 )
 
 var meanRefraction = unit.AngleFromMin(34)

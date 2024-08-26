@@ -10,7 +10,6 @@ package elliptic
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/apparent"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
@@ -18,6 +17,7 @@ import (
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solarxyz"
+	"github.com/yanjunhui/unit"
 )
 
 // Position returns observed equatorial coordinates of a planet at a given time.

@@ -7,9 +7,9 @@ package sidereal
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/nutation"
+	"github.com/yanjunhui/unit"
 )
 
 // jdToCFrac returns values for use in computing sidereal time at Greenwich.

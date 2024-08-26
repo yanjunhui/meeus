@@ -16,9 +16,9 @@ import (
 	"errors"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/interp"
+	"github.com/yanjunhui/unit"
 )
 
 // Sep returns the angular separation between two celestial bodies.

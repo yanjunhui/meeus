@@ -7,8 +7,8 @@ import (
 	"fmt"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/circle"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleSmallest_a() {

@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/parallactic"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleEclipticAtHorizon() {

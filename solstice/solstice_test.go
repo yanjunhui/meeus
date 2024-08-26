@@ -8,9 +8,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/solstice"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleJune() {

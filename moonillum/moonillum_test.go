@@ -8,12 +8,12 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonillum"
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/solar"
+	"github.com/yanjunhui/unit"
 )
 
 func ExamplePhaseAngleEq() {

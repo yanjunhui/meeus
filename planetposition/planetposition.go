@@ -30,10 +30,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/precess"
+	"github.com/yanjunhui/unit"
 )
 
 // Mercury-Neptune planet constants suitable for first argument to LoadPlanet.

@@ -19,11 +19,11 @@ package solar
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/unit"
 )
 
 // True returns true geometric longitude and anomaly of the sun referenced to the mean equinox of date.

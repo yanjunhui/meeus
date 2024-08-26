@@ -7,8 +7,8 @@ package moonmaxdec
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // North computes the maximum northern declination of the Moon near a given date.

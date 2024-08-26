@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/soniakeys/unit"
+	"github.com/yanjunhui/unit"
 )
 
 // Section "Trigonometric functions of large angles":

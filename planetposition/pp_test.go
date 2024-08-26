@@ -11,9 +11,9 @@ import (
 	"testing"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleV87Planet_Position2000() {

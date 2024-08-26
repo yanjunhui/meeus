@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleInterp10A() {

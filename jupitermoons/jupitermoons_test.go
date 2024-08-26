@@ -7,10 +7,10 @@ import (
 	"fmt"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/jupitermoons"
+	"github.com/yanjunhui/unit"
 )
 
 func ExamplePositions() {

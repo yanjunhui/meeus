@@ -11,7 +11,6 @@ import (
 	"time"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/elliptic"
 	"github.com/yanjunhui/meeus/globe"
@@ -19,6 +18,7 @@ import (
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/rise"
 	"github.com/yanjunhui/meeus/sidereal"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleApproxTimes_computed() {

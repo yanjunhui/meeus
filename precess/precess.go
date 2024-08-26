@@ -42,11 +42,11 @@ package precess
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/elementequinox"
 	"github.com/yanjunhui/meeus/nutation"
+	"github.com/yanjunhui/unit"
 )
 
 // ApproxAnnualPrecession returns approximate annual precision in right

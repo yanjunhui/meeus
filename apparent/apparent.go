@@ -7,12 +7,12 @@ package apparent
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/nutation"
 	"github.com/yanjunhui/meeus/precess"
 	"github.com/yanjunhui/meeus/solar"
+	"github.com/yanjunhui/unit"
 )
 
 // Nutation returns corrections due to nutation for equatorial coordinates

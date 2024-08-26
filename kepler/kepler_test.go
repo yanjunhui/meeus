@@ -6,8 +6,8 @@ package kepler_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/kepler"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleKepler1() {

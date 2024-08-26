@@ -7,8 +7,8 @@ package moonposition
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // Parallax returns equatorial horizontal parallax of the Moon.

@@ -21,8 +21,8 @@ package coord
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/globe"
+	"github.com/yanjunhui/unit"
 )
 
 // Obliquity represents the obliquity of the ecliptic.

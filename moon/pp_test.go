@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moon"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/unit"
 )
 
 func ExamplePhysical() {

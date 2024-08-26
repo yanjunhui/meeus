@@ -6,9 +6,9 @@ package binary_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/binary"
 	"github.com/yanjunhui/meeus/kepler"
+	"github.com/yanjunhui/unit"
 )
 
 func ExamplePosition() {

@@ -7,10 +7,10 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/nutation"
+	"github.com/yanjunhui/unit"
 )
 
 // test data from p. 132.

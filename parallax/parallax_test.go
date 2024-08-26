@@ -9,12 +9,12 @@ import (
 	"testing"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/parallax"
 	"github.com/yanjunhui/meeus/sidereal"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleHorizontal() {

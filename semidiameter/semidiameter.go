@@ -7,9 +7,9 @@ package semidiameter
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/parallax"
+	"github.com/yanjunhui/unit"
 )
 
 // Standard semidiameters at unit distance of 1 AU.

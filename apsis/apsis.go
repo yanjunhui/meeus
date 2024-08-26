@@ -7,8 +7,8 @@ package apsis
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // conversion factor from k to T, given in (50.3) p. 356

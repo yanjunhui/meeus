@@ -7,10 +7,10 @@ package pluto
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/elliptic"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/unit"
 )
 
 // Heliocentric returns J2000 heliocentric coordinates of Pluto.

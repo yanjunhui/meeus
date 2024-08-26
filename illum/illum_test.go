@@ -6,8 +6,8 @@ package illum_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/illum"
+	"github.com/yanjunhui/unit"
 )
 
 func ExamplePhaseAngle() {

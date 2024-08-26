@@ -1,0 +1,63 @@
+# github.com/soniakeys/sexagesimal v1.0.0
+## explicit
+github.com/soniakeys/sexagesimal
+# github.com/soniakeys/unit v1.0.0
+## explicit
+github.com/soniakeys/unit
+# github.com/yanjunhui/meeus v0.0.0-20240826113912-28c0ed1045be
+## explicit
+github.com/yanjunhui/meeus/angle
+github.com/yanjunhui/meeus/apparent
+github.com/yanjunhui/meeus/apsis
+github.com/yanjunhui/meeus/base
+github.com/yanjunhui/meeus/binary
+github.com/yanjunhui/meeus/circle
+github.com/yanjunhui/meeus/conjunction
+github.com/yanjunhui/meeus/coord
+github.com/yanjunhui/meeus/deltat
+github.com/yanjunhui/meeus/easter
+github.com/yanjunhui/meeus/eclipse
+github.com/yanjunhui/meeus/elementequinox
+github.com/yanjunhui/meeus/elliptic
+github.com/yanjunhui/meeus/eqtime
+github.com/yanjunhui/meeus/fit
+github.com/yanjunhui/meeus/globe
+github.com/yanjunhui/meeus/illum
+github.com/yanjunhui/meeus/interp
+github.com/yanjunhui/meeus/iterate
+github.com/yanjunhui/meeus/jm
+github.com/yanjunhui/meeus/julian
+github.com/yanjunhui/meeus/jupiter
+github.com/yanjunhui/meeus/jupitermoons
+github.com/yanjunhui/meeus/kepler
+github.com/yanjunhui/meeus/line
+github.com/yanjunhui/meeus/mars
+github.com/yanjunhui/meeus/moon
+github.com/yanjunhui/meeus/moonillum
+github.com/yanjunhui/meeus/moonmaxdec
+github.com/yanjunhui/meeus/moonnode
+github.com/yanjunhui/meeus/moonphase
+github.com/yanjunhui/meeus/moonposition
+github.com/yanjunhui/meeus/nearparabolic
+github.com/yanjunhui/meeus/node
+github.com/yanjunhui/meeus/nutation
+github.com/yanjunhui/meeus/parabolic
+github.com/yanjunhui/meeus/parallactic
+github.com/yanjunhui/meeus/parallax
+github.com/yanjunhui/meeus/perihelion
+github.com/yanjunhui/meeus/planetary
+github.com/yanjunhui/meeus/planetelements
+github.com/yanjunhui/meeus/planetposition
+github.com/yanjunhui/meeus/pluto
+github.com/yanjunhui/meeus/precess
+github.com/yanjunhui/meeus/refraction
+github.com/yanjunhui/meeus/rise
+github.com/yanjunhui/meeus/saturnmoons
+github.com/yanjunhui/meeus/saturnring
+github.com/yanjunhui/meeus/sidereal
+github.com/yanjunhui/meeus/solar
+github.com/yanjunhui/meeus/solardisk
+github.com/yanjunhui/meeus/solarxyz
+github.com/yanjunhui/meeus/solstice
+github.com/yanjunhui/meeus/stellar
+github.com/yanjunhui/meeus/sundial

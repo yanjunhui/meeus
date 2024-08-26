@@ -7,7 +7,7 @@ package binary
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
+	"github.com/yanjunhui/unit"
 )
 
 // M computes mean anomaly for the given date.
@@ -46,9 +46,9 @@ func Position(e float64, a, i, Ω, ω, E unit.Angle) (θ, ρ unit.Angle) {
 // ApparentEccentricity returns apparent eccenticity of a binary star
 // given true orbital elements.
 //
-//  e is eccentricity of the true orbit
-//  i is inclination relative to the line of sight
-//  ω is longitude of periastron
+//	e is eccentricity of the true orbit
+//	i is inclination relative to the line of sight
+//	ω is longitude of periastron
 func ApparentEccentricity(e float64, i, ω unit.Angle) float64 {
 	ci := i.Cos()
 	sω, cω := ω.Sincos()

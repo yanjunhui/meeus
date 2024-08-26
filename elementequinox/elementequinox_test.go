@@ -6,8 +6,8 @@ package elementequinox_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/elementequinox"
+	"github.com/yanjunhui/unit"
 )
 
 // See package precess for example 24.a.

@@ -7,8 +7,8 @@ package nutation
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // Nutation returns nutation in longitude (Δψ) and nutation in obliquity (Δε)

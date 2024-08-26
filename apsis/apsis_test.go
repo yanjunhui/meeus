@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/apsis"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonposition"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleMeanApogee() {

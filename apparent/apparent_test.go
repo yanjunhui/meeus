@@ -7,11 +7,11 @@ import (
 	"fmt"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/apparent"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleNutation() {

@@ -12,8 +12,8 @@ package illum
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // PhaseAngle computes the phase angle of a planet.

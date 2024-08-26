@@ -9,9 +9,9 @@ import (
 	"testing"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/angle"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleSep() {

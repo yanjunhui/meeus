@@ -10,9 +10,9 @@ import (
 	"fmt"
 
 	"github.com/soniakeys/sexagesimal"
-	"github.com/soniakeys/unit"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solstice"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleJune2() {

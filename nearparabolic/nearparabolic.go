@@ -8,8 +8,8 @@ import (
 	"errors"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // Elements holds orbital elements for near-parabolic orbits.

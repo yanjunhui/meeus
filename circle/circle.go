@@ -7,8 +7,8 @@ package circle
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 // Smallest finds the smallest circle containing three points.

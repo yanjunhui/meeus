@@ -8,8 +8,8 @@ import (
 	"errors"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/interp"
+	"github.com/yanjunhui/unit"
 )
 
 // Time computes the time at which a moving body is on a straight line (great

@@ -7,11 +7,11 @@ package saturnring
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/unit"
 )
 
 // Constants for scaling aEdge and bEdge.

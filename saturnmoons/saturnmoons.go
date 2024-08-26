@@ -7,12 +7,12 @@ package saturnmoons
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/precess"
 	"github.com/yanjunhui/meeus/solar"
+	"github.com/yanjunhui/unit"
 )
 
 // XY holds coordinates returned from Positions().

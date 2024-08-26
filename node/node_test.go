@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/node"
 	"github.com/yanjunhui/meeus/perihelion"
 	"github.com/yanjunhui/meeus/planetelements"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleEllipticAscending() {

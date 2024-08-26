@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
+	"github.com/yanjunhui/unit"
 )
 
 func ExampleIlluminated_venus() {

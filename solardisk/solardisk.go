@@ -7,11 +7,11 @@ package solardisk
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
+	"github.com/yanjunhui/unit"
 )
 
 // Ephemeris returns the apparent orientation of the sun at the given jd.

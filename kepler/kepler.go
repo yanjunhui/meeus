@@ -7,8 +7,8 @@ package kepler
 import (
 	"math"
 
-	"github.com/soniakeys/unit"
 	"github.com/yanjunhui/meeus/iterate"
+	"github.com/yanjunhui/unit"
 )
 
 // True returns true anomaly ν for given eccentric anomaly E.
