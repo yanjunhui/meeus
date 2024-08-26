@@ -9,9 +9,9 @@ package solar_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/solar"
 )
 

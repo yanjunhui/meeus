@@ -9,9 +9,9 @@ package pluto_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/pluto"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleAstrometric() {

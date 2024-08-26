@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/interp"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

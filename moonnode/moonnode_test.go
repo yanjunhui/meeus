@@ -8,9 +8,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonnode"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

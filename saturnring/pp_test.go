@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/soniakeys/sexagesimal"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/saturnring"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleRing() {

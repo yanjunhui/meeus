@@ -8,11 +8,11 @@ import (
 	"math"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/conjunction"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

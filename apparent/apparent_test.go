@@ -6,11 +6,11 @@ package apparent_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/apparent"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

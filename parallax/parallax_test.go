@@ -8,11 +8,11 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/parallax"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/sidereal"
 	"github.com/yanjunhui/meeus/unit"
 )

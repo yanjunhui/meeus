@@ -3,7 +3,7 @@
 // Unit defines some types used in astronomy, and heavily used by the packages
 // in github.com/soniakeys/meeus.  Four types are currently defined, Angle,
 // HourAngle, RA, and Time.  All are commonly formatted in sexagesimal notation
-// and the external package github.com/soniakeys/sexagesimal has formatting
+// and the external package github.com/yanjunhui/meeus/sexa has formatting
 // routines.  Routines here are methods on the four types and a few other
 // related functions.
 //

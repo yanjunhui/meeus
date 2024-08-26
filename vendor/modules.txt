@@ -1,6 +1,0 @@
-# github.com/soniakeys/sexagesimal v1.0.0
-## explicit
-github.com/soniakeys/sexagesimal
-# github.com/soniakeys/unit v1.0.0
-## explicit
-github.com/soniakeys/unit

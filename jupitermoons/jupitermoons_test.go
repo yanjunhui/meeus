@@ -6,10 +6,10 @@ package jupitermoons_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/jupitermoons"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

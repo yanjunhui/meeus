@@ -9,10 +9,10 @@ package eqtime_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/eqtime"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleE() {

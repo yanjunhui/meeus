@@ -8,9 +8,9 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/nutation"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleNutation() {

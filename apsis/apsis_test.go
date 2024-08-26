@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/apsis"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonposition"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

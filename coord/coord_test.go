@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/sidereal"
 	"github.com/yanjunhui/meeus/unit"
 )

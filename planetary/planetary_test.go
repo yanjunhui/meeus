@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/planetary"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleMercuryInfConj() {

@@ -6,9 +6,9 @@ package eqtime_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/eqtime"
 	"github.com/yanjunhui/meeus/julian"
+	"github.com/yanjunhui/meeus/sexa"
 )
 
 func ExampleESmart() {

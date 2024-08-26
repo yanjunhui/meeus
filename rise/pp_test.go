@@ -10,13 +10,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/elliptic"
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/rise"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/sidereal"
 	"github.com/yanjunhui/meeus/unit"
 )

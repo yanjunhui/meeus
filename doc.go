@@ -9,7 +9,7 @@
 //
 // It requires Go 1.1 or later.
 //
-// Library Goals
+// # Library Goals
 //
 // Jean Meeus's book has long been respected as a broad-reaching source of
 // astronomical algorithms, and many code libraries have been based on it.
@@ -43,7 +43,7 @@
 // from this one.  Please feel free to do this, respecting of course the MIT
 // license under which this software is offered.
 //
-// Package Contents
+// # Package Contents
 //
 // By Go convention, each package is in its own subdirectory.  The
 // "subdirectories" list of this documentation page lists all packages of
@@ -87,7 +87,7 @@
 // as helper subroutines or IO subroutines.  The functions do not offer
 // additional astronomy algorithms beyond those provided by Meeus.
 //
-// Identifiers
+// # Identifiers
 //
 // To more closely follow the book's use of Greek letters and other symbols,
 // Unicode is freely used in the source code.  Recognizing that these symbols
@@ -103,26 +103,26 @@
 // in identifiers.  U+02B9 on the other hand is Unicode category Lm,
 // and is perfectly valid in Go identifiers.
 //
-// Unit types
+// # Unit types
 //
 // An earler version of this library used the Go type float64 for most
 // parameters and return values.  This allowed terse, efficient code but
 // required careful attention to the scaling or units used.  Go defined types
 // are now used for Time, RA, HourAngle, and general Angle quantities in the
 // interest of making units and coversions more clear.  These types are
-// defined in the external package github.com/soniakeys/unit.
+// defined in the external package github.com/yanjunhui/meeus/unit.
 //
-// Sexagesimal formatting
+// # Sexagesimal formatting
 //
 // An earlier version of this library included routines for formatting
 // sexagesimal quantities.  These have been moved to the external package
-// github.com/soniakeys/sexagesimal and use of this package is now restricted
+// github.com/yanjunhui/meeus/sexa and use of this package is now restricted
 // to examples and tests.
 //
 // Meeus packages and the sexagesimal package both depend on the unit package.
 // Meeus packages do not depend on sexagesimal, although the Meeus tests do.
 //
-// Chapter Cross-reference
+// # Chapter Cross-reference
 //
 // .
 //

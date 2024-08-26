@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/refraction"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 

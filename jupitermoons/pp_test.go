@@ -9,11 +9,11 @@ package jupitermoons_test
 import (
 	"fmt"
 
-	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/deltat"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/jupitermoons"
 	pp "github.com/yanjunhui/meeus/planetposition"
+	"github.com/yanjunhui/meeus/sexa"
 	"github.com/yanjunhui/meeus/unit"
 )
 
