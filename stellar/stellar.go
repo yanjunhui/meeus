@@ -7,7 +7,7 @@ package stellar
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Sum returns the combined apparent magnitude of two stars.

@@ -10,7 +10,7 @@ package globe
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Ellipsoid represents an ellipsoid of revolution.

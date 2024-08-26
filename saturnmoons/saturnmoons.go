@@ -12,7 +12,7 @@ import (
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/precess"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // XY holds coordinates returned from Positions().

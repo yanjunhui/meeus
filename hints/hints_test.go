@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Section "Trigonometric functions of large angles":

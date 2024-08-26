@@ -33,7 +33,7 @@ import (
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/precess"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Mercury-Neptune planet constants suitable for first argument to LoadPlanet.

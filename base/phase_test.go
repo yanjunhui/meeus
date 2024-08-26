@@ -8,7 +8,7 @@ import (
 	"math"
 
 	"github.com/yanjunhui/meeus/base"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleIlluminated_venus() {

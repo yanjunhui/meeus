@@ -7,7 +7,7 @@ package binary
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // M computes mean anomaly for the given date.

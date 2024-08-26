@@ -13,7 +13,7 @@ import (
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/sidereal"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleEclToEq() {

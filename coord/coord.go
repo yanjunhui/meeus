@@ -22,7 +22,7 @@ import (
 	"math"
 
 	"github.com/yanjunhui/meeus/globe"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Obliquity represents the obliquity of the ecliptic.

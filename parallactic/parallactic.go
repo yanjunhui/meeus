@@ -7,7 +7,7 @@ package parallactic
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // ParallacticAngle returns parallactic angle of a celestial object.

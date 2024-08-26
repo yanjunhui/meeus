@@ -11,7 +11,7 @@ import (
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Ephemeris returns the apparent orientation of the sun at the given jd.

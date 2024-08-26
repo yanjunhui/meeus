@@ -18,7 +18,7 @@ import (
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/rise"
 	"github.com/yanjunhui/meeus/sidereal"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleApproxTimes_computed() {

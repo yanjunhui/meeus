@@ -10,7 +10,7 @@ import (
 
 	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/globe"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleEllipsoid_ParallaxConstants() {

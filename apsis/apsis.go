@@ -8,7 +8,7 @@ import (
 	"math"
 
 	"github.com/yanjunhui/meeus/base"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // conversion factor from k to T, given in (50.3) p. 356

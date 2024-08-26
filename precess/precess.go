@@ -46,7 +46,7 @@ import (
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/elementequinox"
 	"github.com/yanjunhui/meeus/nutation"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // ApproxAnnualPrecession returns approximate annual precision in right

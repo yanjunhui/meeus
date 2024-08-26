@@ -3,7 +3,7 @@
 
 package base
 
-import "github.com/yanjunhui/unit"
+import "github.com/yanjunhui/meeus/unit"
 
 // SmallAngle is threshold used by various routines for switching between
 // trigonometric functions and Pythagorean approximations.

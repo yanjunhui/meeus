@@ -10,7 +10,7 @@ import (
 
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/solstice"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleJune() {

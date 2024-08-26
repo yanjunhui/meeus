@@ -17,7 +17,7 @@ import (
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solarxyz"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Position returns observed equatorial coordinates of a planet at a given time.

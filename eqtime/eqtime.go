@@ -12,7 +12,7 @@ import (
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // E computes the "equation of time" for the given JDE.

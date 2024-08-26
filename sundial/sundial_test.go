@@ -8,7 +8,7 @@ import (
 	"math"
 
 	"github.com/yanjunhui/meeus/sundial"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleGeneral_a() {

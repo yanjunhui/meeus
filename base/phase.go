@@ -6,7 +6,7 @@ package base
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Illuminated returns the illuminated fraction of a body's disk.

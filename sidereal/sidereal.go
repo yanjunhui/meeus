@@ -9,7 +9,7 @@ import (
 
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/nutation"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // jdToCFrac returns values for use in computing sidereal time at Greenwich.

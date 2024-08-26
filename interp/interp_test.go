@@ -9,7 +9,7 @@ import (
 
 	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/interp"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleLen3_InterpolateN() {

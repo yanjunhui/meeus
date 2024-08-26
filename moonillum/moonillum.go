@@ -12,7 +12,7 @@ import (
 	"math"
 
 	"github.com/yanjunhui/meeus/base"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // PhaseAngleEQ computes the phase angle of the Moon given equatorial coordinates.

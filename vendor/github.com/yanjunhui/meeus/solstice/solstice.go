@@ -7,7 +7,7 @@ package solstice
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 	"github.com/yanjunhui/meeus/base"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"

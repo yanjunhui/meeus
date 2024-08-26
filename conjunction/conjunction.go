@@ -8,7 +8,7 @@ import (
 	"errors"
 
 	"github.com/yanjunhui/meeus/interp"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Planetary computes a conjunction between two moving objects, such as planets.

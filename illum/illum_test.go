@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"github.com/yanjunhui/meeus/illum"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExamplePhaseAngle() {

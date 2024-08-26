@@ -11,7 +11,7 @@ import (
 	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonmaxdec"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleNorth() {

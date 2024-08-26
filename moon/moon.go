@@ -16,7 +16,7 @@ import (
 	//	"github.com/yanjunhui/meeus/parallax"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // IAU value of inclination of mean lunar equator, p. 372

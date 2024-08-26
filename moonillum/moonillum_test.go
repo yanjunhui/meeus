@@ -13,7 +13,7 @@ import (
 	"github.com/yanjunhui/meeus/moonillum"
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExamplePhaseAngleEq() {

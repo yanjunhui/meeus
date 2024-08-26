@@ -12,7 +12,7 @@ import (
 	"github.com/yanjunhui/meeus/nutation"
 	"github.com/yanjunhui/meeus/precess"
 	"github.com/yanjunhui/meeus/solar"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Nutation returns corrections due to nutation for equatorial coordinates

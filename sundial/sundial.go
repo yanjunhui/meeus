@@ -7,7 +7,7 @@ package sundial
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Point return type represents a point to be used in constructing the sundial.

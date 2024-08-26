@@ -12,7 +12,7 @@ package elementequinox
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Elements are the orbital elements of a solar system object which change

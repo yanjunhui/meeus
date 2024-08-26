@@ -11,7 +11,7 @@ import (
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/coord"
 	"github.com/yanjunhui/meeus/julian"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleNutation() {

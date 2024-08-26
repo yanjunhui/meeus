@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"github.com/yanjunhui/meeus/kepler"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleKepler1() {

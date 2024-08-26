@@ -7,7 +7,7 @@ package conjunction
 import (
 	"errors"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 	"github.com/yanjunhui/meeus/interp"
 )
 

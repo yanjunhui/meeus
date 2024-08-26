@@ -13,7 +13,7 @@ import (
 	"github.com/yanjunhui/meeus/elliptic"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExamplePosition() {

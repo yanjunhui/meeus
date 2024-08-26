@@ -9,7 +9,7 @@ import (
 
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/parallax"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Standard semidiameters at unit distance of 1 AU.

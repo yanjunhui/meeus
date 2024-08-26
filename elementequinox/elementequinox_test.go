@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"github.com/yanjunhui/meeus/elementequinox"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // See package precess for example 24.a.

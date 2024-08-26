@@ -25,7 +25,7 @@ import (
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/sidereal"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 var meanRefraction = unit.AngleFromMin(34)

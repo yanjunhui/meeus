@@ -13,7 +13,7 @@ import (
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moon"
 	pp "github.com/yanjunhui/meeus/planetposition"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExamplePhysical() {

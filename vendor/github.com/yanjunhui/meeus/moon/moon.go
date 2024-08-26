@@ -14,7 +14,7 @@ import (
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/nutation"
 	//	"github.com/yanjunhui/meeus/parallax"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solar"
 )

@@ -11,7 +11,7 @@ import (
 	"github.com/yanjunhui/meeus/node"
 	"github.com/yanjunhui/meeus/perihelion"
 	"github.com/yanjunhui/meeus/planetelements"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleEllipticAscending() {

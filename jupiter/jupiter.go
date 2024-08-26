@@ -10,7 +10,7 @@ import (
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/nutation"
 	pp "github.com/yanjunhui/meeus/planetposition"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Physical computes quantities for physical observations of Jupiter.

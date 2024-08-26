@@ -9,7 +9,7 @@ import (
 
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/sidereal"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // constant for Horizontal.  p. 279.

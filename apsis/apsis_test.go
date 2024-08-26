@@ -13,7 +13,7 @@ import (
 	"github.com/yanjunhui/meeus/apsis"
 	"github.com/yanjunhui/meeus/julian"
 	"github.com/yanjunhui/meeus/moonposition"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleMeanApogee() {

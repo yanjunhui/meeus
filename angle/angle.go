@@ -18,7 +18,7 @@ import (
 
 	"github.com/yanjunhui/meeus/base"
 	"github.com/yanjunhui/meeus/interp"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 // Sep returns the angular separation between two celestial bodies.

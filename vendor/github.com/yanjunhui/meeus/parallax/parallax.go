@@ -7,7 +7,7 @@ package parallax
 import (
 	"math"
 
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 	"github.com/yanjunhui/meeus/globe"
 	"github.com/yanjunhui/meeus/sidereal"
 )

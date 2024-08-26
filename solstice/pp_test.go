@@ -12,7 +12,7 @@ import (
 	"github.com/soniakeys/sexagesimal"
 	pp "github.com/yanjunhui/meeus/planetposition"
 	"github.com/yanjunhui/meeus/solstice"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleJune2() {

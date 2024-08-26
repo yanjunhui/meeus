@@ -13,7 +13,7 @@ import (
 	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/julian"
 	pp "github.com/yanjunhui/meeus/planetposition"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleV87Planet_Position2000() {

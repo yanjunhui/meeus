@@ -10,7 +10,7 @@ import (
 
 	"github.com/soniakeys/sexagesimal"
 	"github.com/yanjunhui/meeus/refraction"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func Example() {

@@ -14,7 +14,7 @@ import (
 	"github.com/yanjunhui/meeus/moonposition"
 	"github.com/yanjunhui/meeus/parallax"
 	"github.com/yanjunhui/meeus/sidereal"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExampleHorizontal() {

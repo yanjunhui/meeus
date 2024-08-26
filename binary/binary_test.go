@@ -8,7 +8,7 @@ import (
 
 	"github.com/yanjunhui/meeus/binary"
 	"github.com/yanjunhui/meeus/kepler"
-	"github.com/yanjunhui/unit"
+	"github.com/yanjunhui/meeus/unit"
 )
 
 func ExamplePosition() {
